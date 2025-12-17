@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**AivanneBaula/AivanneBaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Aivanne Baula**  
+🎓**Second Year College Student**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🎓 Introduction
+- **Name: Aivanne Baula**
+- **Role: Second Year College Student** 
+- **Hello! I’m Aivanne Baula, a second year college student exploring programming and web development.**
+    
+
+---
+
+### 🌱 About Me
+- **I enjoy playing online games and basketball, and I also like going on rides.**
+- **📚 Currently learning basic programming and web development** 
+- **💻 Interested in building simple websites and applications** 
+- **🎯 Goal: To improve my coding skills and gain more experience in software development**
+
+---
+
+### 🛠️ Skills
+-**HTML**
+-**CSS**
+-**Java (Basic)**
+-**Git & GitHub**
+
+---
+
+### 📂 Projects
+- **Simple Website**
+   -**A basic website created using HTML and CSS**
+  -**Link: (coming soon)**
+
+- **School Project**
+  - **Beginner-level project for academic purposes**
+  - **Link: (coming soon)**
+
+---
+
+### 📫 Contact
+- **Email: aivannebaula6email@gmail.com**
